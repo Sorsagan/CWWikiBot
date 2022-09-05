@@ -1,0 +1,1307 @@
+[
+    {
+        "names": "Animal Skull",
+        "itemtype": "Block",
+        "itemid": "32",
+        "itemrarity": "4",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/4/4c/Animal_Skull.png/revision/latest?cb=20220720212850"
+    },
+    {
+        "names": "Asteroid Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/f/fe/Asteroid_Block.png/revision/latest?cb=20220725063800"
+    },
+    {
+        "names": "Bathtub",
+        "itemtype": "Block",
+        "itemid": "129",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/5a/Bathtub.png/revision/latest?cb=20220722112339"
+    },
+    {
+        "names": "Bed",
+        "itemtype": "Block",
+        "itemid": "131",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/c/c5/Bed.png/revision/latest?cb=20220722114947"
+    },
+    {
+        "names": "Bedrock Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "Unknown",
+        "itemfarmable": "No",
+        "itemdroppable": "Unknown",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/88/Bedrock_Block.png/revision/latest?cb=20220718133518"
+    },
+    {
+        "names": "Best World Trophy",
+        "itemtype": "Block",
+        "itemid": "227",
+        "itemrarity": "Unknown",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/d/d6/Best_World_Trophy.png/revision/latest?cb=20220724120248"
+    },
+    {
+        "names": "Big Rock",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/6/6e/Big_Rock.png/revision/latest?cb=20220723131949"
+    },
+    {
+        "names": "Black Block",
+        "itemtype": "Block",
+        "itemid": "45",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/c/c5/Black_Block.png/revision/latest?cb=20220720214555"
+    },
+    {
+        "names": "Black Couch",
+        "itemtype": "Block",
+        "itemid": "108",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/b/b6/Black_Couch.png/revision/latest?cb=20220721124550"
+    },
+    {
+        "names": "Blue Block",
+        "itemtype": "Block",
+        "itemid": "2",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/1/1e/Blue_Block.png/revision/latest?cb=20220718172313"
+    },
+    {
+        "names": "Blue Comet",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/30/Blue_Comet.png/revision/latest?cb=20220721121438"
+    },
+    {
+        "names": "Blue Couch",
+        "itemtype": "Block",
+        "itemid": "107",
+        "itemrarity": "6",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/2/21/Blue_Couch.png/revision/latest?cb=20220721124335"
+    },
+    {
+        "names": "Bush",
+        "itemtype": "Block",
+        "itemid": "25",
+        "itemrarity": "5",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/a/a1/Bush.png/revision/latest?cb=20220720205505"
+    },
+    {
+        "names": "Chad Portrait",
+        "itemtype": "Block",
+        "itemid": "112",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/3e/Chad_Portrait.png/revision/latest?cb=20220721125430"
+    },
+    {
+        "names": "Chandelier",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/4/40/Chandelier.png/revision/latest?cb=20220718180206"
+    },
+    {
+        "names": "Clock",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "5",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/35/Clock.png/revision/latest?cb=20220722130029"
+    },
+    {
+        "names": "Computer",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "5",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/0/02/Computer.png/revision/latest?cb=20220723110228"
+    },
+    {
+        "names": "Cracked Stone",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/f/f1/Cracked_Stone.png/revision/latest?cb=20220723122107"
+    },
+    {
+        "names": "Crystal Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/9/93/Crystal_Block.png/revision/latest?cb=20220731160344"
+    },
+    {
+        "names": "Crystal Ore",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/85/Crystal_Ore.png/revision/latest?cb=20220723121529"
+    },
+    {
+        "names": "Cursed Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/d/de/Cursed_Block.png/revision/latest?cb=20220731160534"
+    },
+    {
+        "names": "Cursed Ore",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "No",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/d/db/Cursed_Ore.png/revision/latest?cb=20220731154540"
+    },
+    {
+        "names": "Dandelions",
+        "itemtype": "Block",
+        "itemid": "53",
+        "itemrarity": "4",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/8d/Dandelions.png/revision/latest?cb=20220720220115"
+    },
+    {
+        "names": "Dead Bush",
+        "itemtype": "Block",
+        "itemid": "31",
+        "itemrarity": "4",
+        "itemfarmable": "No",
+        "itemdroppable": "No",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/1/1f/Dead_Bush.png/revision/latest?cb=20220720212601"
+    },
+    {
+        "names": "Diamond Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/6/66/Diamond_Block.png/revision/latest?cb=20220731160103"
+    },
+    {
+        "names": "Diamond Ore",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/9/97/Diamond_Ore.png/revision/latest?cb=20220723121254"
+    },
+    {
+        "names": "Dice Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/31/Dice_Block.png/revision/latest?cb=20220722141204"
+    },
+    {
+        "names": "Dirt Block",
+        "itemtype": "Block",
+        "itemid": "2",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/55/Dirt_Block.png/revision/latest?cb=20220718111308"
+    },
+    {
+        "names": "Dirt with Big Rocks",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/6/6e/Dirt_With_Big_Rocks.png/revision/latest?cb=20220723125720"
+    },
+    {
+        "names": "Dirt with Fossil",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/1/19/Dirt_With_Fossil.png/revision/latest?cb=20220723130223"
+    },
+    {
+        "names": "Dirt with Small Rocks",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/1/10/Dirt_With_Small_Rocks.png/revision/latest?cb=20220723125956"
+    },
+    {
+        "names": "Entrance",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/5d/Wooden_Entrance.png/revision/latest?cb=20220722104145"
+    },
+    {
+        "names": "Fancy Chair",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/4/42/Fancy_Chair.png/revision/latest?cb=20220722112422"
+    },
+    {
+        "names": "Fancy Table",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/87/Fancy_Table.png/revision/latest?cb=20220722112905"
+    },
+    {
+        "names": "Fireplace",
+        "itemtype": "Block",
+        "itemid": "128",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/53/Fireplace.png/revision/latest?cb=20220718180223"
+    },
+    {
+        "names": "Glass Block",
+        "itemtype": "Block",
+        "itemid": "10",
+        "itemrarity": "5",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/e/e5/Glass_Block.png/revision/latest?cb=20220718134313"
+    },
+    {
+        "names": "Gold Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/6/6c/Gold_Block.png/revision/latest?cb=20220731155543"
+    },
+    {
+        "names": "Golden Ore",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/2/2a/Golden_Ore.png/revision/latest?cb=20220723120924"
+    },
+    {
+        "names": "Grass",
+        "itemtype": "Block",
+        "itemid": "29",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/c/c5/Grass.png/revision/latest?cb=20220720211938"
+    },
+    {
+        "names": "Green Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/7/7b/Green_Block.png/revision/latest?cb=20220718180000"
+    },
+    {
+        "names": "Green Comet",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/9/97/Green_Comet.png/revision/latest?cb=20220725063507"
+    },
+    {
+        "names": "Iron Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/c/c1/Iron_Block.png/revision/latest?cb=20220731154854"
+    },
+    {
+        "names": "Iron Ore",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/87/Iron_Ore.png/revision/latest?cb=20220723115758"
+    },
+    {
+        "names": "Laser Entrance",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/a/a3/Laser_Entrance.png/revision/latest?cb=20220722105240"
+    },
+    {
+        "names": "Magma",
+        "itemtype": "Block",
+        "itemid": "65",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/f/f9/Magma.png/revision/latest?cb=20220721114024"
+    },
+    {
+        "names": "Mailbox",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/88/Mailbox.png/revision/latest?cb=20220724124340"
+    },
+    {
+        "names": "Medium Rock",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/3a/Medium_Rock.png/revision/latest?cb=20220723131717"
+    },
+    {
+        "names": "Metal Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/f/f4/Metal_Block.png/revision/latest?cb=20220722130703"
+    },
+    {
+        "names": "Metal Box",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/8c/Metal_Box.png/revision/latest?cb=20220722135016"
+    },
+    {
+        "names": "Metal Door",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/c/cd/Metal_Door.png/revision/latest?cb=20220722111222"
+    },
+    {
+        "names": "Metal Ladder",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/5e/Metal_Ladder.png/revision/latest?cb=20220722103541"
+    },
+    {
+        "names": "Metal Lamp",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/2/26/Metal_Lamp.png/revision/latest?cb=20220731153717"
+    },
+    {
+        "names": "Metal Platform",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/4/48/Metal_Platform.png/revision/latest?cb=20220722094204"
+    },
+    {
+        "names": "Mona Lisa Portrait",
+        "itemtype": "Block",
+        "itemid": "111",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/5d/Mona_Lisa_Portrait.png/revision/latest?cb=20220721125038"
+    },
+    {
+        "names": "Moon Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/4/40/Moon_Block.png/revision/latest?cb=20220723114818"
+    },
+    {
+        "names": "Moon Rock",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/0/0d/Moon_Rock.png/revision/latest?cb=20220723115242"
+    },
+    {
+        "names": "Moonrock With Green Slime",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/0/0a/Mooonrock_With_Green_Slime.png/revision/latest?cb=20220725064120"
+    },
+    {
+        "names": "Moonrock With Pink Slime",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/8b/Moonrock_With_Purple_Slime.png/revision/latest?cb=20220725064317"
+    },
+    {
+        "names": "Mustafa Kemal Portrait",
+        "itemtype": "Block",
+        "itemid": "113",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/7/7b/Mustafa_Portrait.png/revision/latest?cb=20220721131205"
+    },
+    {
+        "names": "Number 0 Block",
+        "itemtype": "Block",
+        "itemid": "238",
+        "itemrarity": "12",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/7/7a/Number_0_Block.png/revision/latest?cb=20220722151810"
+    },
+    {
+        "names": "Number 1 Block",
+        "itemtype": "Block",
+        "itemid": "229",
+        "itemrarity": "12",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/c/c8/Number_1_Block.png/revision/latest?cb=20220722142558"
+    },
+    {
+        "names": "Number 2 Block",
+        "itemtype": "Block",
+        "itemid": "230",
+        "itemrarity": "12",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/36/Number_2_Block.png/revision/latest?cb=20220722142855"
+    },
+    {
+        "names": "Number 3 Block",
+        "itemtype": "Block",
+        "itemid": "231",
+        "itemrarity": "12",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/7/75/Number_3_Block.png/revision/latest?cb=20220722143441"
+    },
+    {
+        "names": "Number 4 Block",
+        "itemtype": "Block",
+        "itemid": "232",
+        "itemrarity": "12",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/2/2e/Number_4_Block.png/revision/latest?cb=20220722150414"
+    },
+    {
+        "names": "Number 5 Block",
+        "itemtype": "Block",
+        "itemid": "233",
+        "itemrarity": "12",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/52/Number_5_Block.png/revision/latest?cb=20220722150609"
+    },
+    {
+        "names": "Number 6 Block",
+        "itemtype": "Block",
+        "itemid": "234",
+        "itemrarity": "12",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/6/6d/Number_6_Block.png/revision/latest?cb=20220722150703"
+    },
+    {
+        "names": "Number 7 Block",
+        "itemtype": "Block",
+        "itemid": "235",
+        "itemrarity": "12",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/8d/Number_7_Block.png/revision/latest?cb=20220722151008"
+    },
+    {
+        "names": "Number 8 Block",
+        "itemtype": "Block",
+        "itemid": "236",
+        "itemrarity": "12",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/8a/Number_8_Block.png/revision/latest?cb=20220722151304"
+    },
+    {
+        "names": "Number 9 Block",
+        "itemtype": "Block",
+        "itemid": "237",
+        "itemrarity": "12",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/83/Number_9_Block.png/revision/latest?cb=20220722151711"
+    },
+    {
+        "names": "Oak Tree",
+        "itemtype": "Block",
+        "itemid": "24",
+        "itemrarity": "5",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/b/bd/Wood_Log.png/revision/latest?cb=20220718171512"
+    },
+    {
+        "names": "Orange Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "No",
+        "itemfarmable": "",
+        "itemdroppable": "",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/1/18/Orange_Block.png/revision/latest?cb=20220718180026"
+    },
+    {
+        "names": "Painting 1",
+        "itemtype": "Block",
+        "itemid": "96",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/4/4b/Portrait_1.png/revision/latest?cb=20220721115020"
+    },
+    {
+        "names": "Painting 2",
+        "itemtype": "Block",
+        "itemid": "97",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/4/40/Portrait_2.png/revision/latest?cb=20220721115503"
+    },
+    {
+        "names": "Painting 3",
+        "itemtype": "Block",
+        "itemid": "98",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/f/f6/Portrait_3.png/revision/latest?cb=20220721115749"
+    },
+    {
+        "names": "Pink Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "No",
+        "itemfarmable": "",
+        "itemdroppable": "",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/a/a0/Pink_Block.png/revision/latest?cb=20220718180043"
+    },
+    {
+        "names": "Pink Couch",
+        "itemtype": "Block",
+        "itemid": "106",
+        "itemrarity": "6",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/1/1d/Pink_Couch.png/revision/latest?cb=20220721123909"
+    },
+    {
+        "names": "Portal",
+        "itemtype": "Block",
+        "itemid": "228",
+        "itemrarity": "24",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/9/9d/Portal.png/revision/latest?cb=20220722152417"
+    },
+    {
+        "names": "Purple Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "No",
+        "itemfarmable": "",
+        "itemdroppable": "",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/7/78/Purple_Block.png/revision/latest?cb=20220718180058"
+    },
+    {
+        "names": "Rainbow Block",
+        "itemtype": "Block",
+        "itemid": "236",
+        "itemrarity": "12",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/f/f3/Rainbow_Block1.gif/revision/latest?cb=20220723113737"
+    },
+    {
+        "names": "Red Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "No",
+        "itemfarmable": "",
+        "itemdroppable": "",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/a/a7/Red_Block.png/revision/latest?cb=20220720213955"
+    },
+    {
+        "names": "Rock Spike",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/1/14/Rock_Spike.png/revision/latest?cb=20220723124320"
+    },
+    {
+        "names": "Rose",
+        "itemtype": "Block",
+        "itemid": "54",
+        "itemrarity": "4",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/4/4f/Rose.png/revision/latest?cb=20220720220339"
+    },
+    {
+        "names": "Sand Block",
+        "itemtype": "Block",
+        "itemid": "27",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/d/dc/Sand_Block.png/revision/latest?cb=20220718171910"
+    },
+    {
+        "names": "Sand Rock",
+        "itemtype": "Block",
+        "itemid": "35",
+        "itemrarity": "2",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/55/Dirt_Block.png/revision/latest?cb=20220718111308"
+    },
+    {
+        "names": "Sand With Fossil",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/9/97/Sand_With_Fossil.png/revision/latest?cb=20220724125625"
+    },
+    {
+        "names": "Sand With Fossil 2",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "No",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/9/93/Sand_With_Fossil2.png/revision/latest?cb=20220731163253"
+    },
+    {
+        "names": "Sand with Rocks",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/7/7a/Sand_With_Rocks.png/revision/latest?cb=20220731162949"
+    },
+    {
+        "names": "Shipment Box",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/a/a2/Shipment_Box.png/revision/latest?cb=20220723131152"
+    },
+    {
+        "names": "Sign",
+        "itemtype": "Block",
+        "itemid": "36",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/5d/Sign.png/revision/latest?cb=20220720210810"
+    },
+    {
+        "names": "Small Rock",
+        "itemtype": "Block",
+        "itemid": "223",
+        "itemrarity": "5",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/35/Small_Rock.png/revision/latest?cb=20220720221128"
+    },
+    {
+        "names": "Solid Stone",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/e/e9/Solid_Stone.png/revision/latest?cb=20220723124920"
+    },
+    {
+        "names": "Space Rock",
+        "itemtype": "Block",
+        "itemid": "360",
+        "itemrarity": "4",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/e/ed/Space_Rock.png/revision/latest?cb=20220731151122"
+    },
+    {
+        "names": "Space Ship Block",
+        "itemtype": "Block",
+        "itemid": "361",
+        "itemrarity": "7",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/3c/Space_Ship_Block.png/revision/latest?cb=20220731151844"
+    },
+    {
+        "names": "Space Ship Body",
+        "itemtype": "Block",
+        "itemid": "362",
+        "itemrarity": "10",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/e/ee/Space_Ship_Body.png/revision/latest?cb=20220731153019"
+    },
+    {
+        "names": "Space Ship Lamp",
+        "itemtype": "Block",
+        "itemid": "364",
+        "itemrarity": "12",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/89/Space_Ship_Lamp.png/revision/latest?cb=20220731153327"
+    },
+    {
+        "names": "Spawn Door",
+        "itemtype": "Block",
+        "itemid": "2",
+        "itemrarity": "Unknown",
+        "itemfarmable": "No",
+        "itemdroppable": "Unknown",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/e/ed/Spawn_Door.png/revision/latest?cb=20220720181935"
+    },
+    {
+        "names": "Sunflower",
+        "itemtype": "Block",
+        "itemid": "132",
+        "itemrarity": "4",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/8/81/Sunflower.png/revision/latest?cb=20220722130523"
+    },
+    {
+        "names": "Toilet",
+        "itemtype": "Block",
+        "itemid": "130",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/d/d5/Toilet.png/revision/latest?cb=20220722110042"
+    },
+    {
+        "names": "Treasure",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/39/Treasure.png/revision/latest?cb=20220723123950"
+    },
+    {
+        "names": "Treasure Chest",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/32/Treasure_Chest.png/revision/latest?cb=20220723130636"
+    },
+    {
+        "names": "Tumbleweed",
+        "itemtype": "Block",
+        "itemid": "33",
+        "itemrarity": "5",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/c/c1/Tumbleweed.png/revision/latest?cb=20220720205954"
+    },
+    {
+        "names": "TV",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "No",
+        "itemfarmable": "",
+        "itemdroppable": "",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/c/c7/TV.png/revision/latest?cb=20220722125358"
+    },
+    {
+        "names": "Upside Down Rock Spike",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/d/d3/Upside_Down_Rock_Spike.png/revision/latest?cb=20220723124552"
+    },
+    {
+        "names": "Vine Variant 1",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/33/Vine_Variant_1.png/revision/latest?cb=20220723125221"
+    },
+    {
+        "names": "Vine Variant 2",
+        "itemtype": "Block",
+        "itemid": "3",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/5a/Vine_Variant_2.png/revision/latest?cb=20220723125449"
+    },
+    {
+        "names": "Water Block",
+        "itemtype": "Block",
+        "itemid": "23",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/4/4b/Water_Block.png/revision/latest?cb=20220718170757"
+    },
+    {
+        "names": "White Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "No",
+        "itemfarmable": "",
+        "itemdroppable": "",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/a/a6/White_Block.png/revision/latest?cb=20220718180442"
+    },
+    {
+        "names": "Wooden Block",
+        "itemtype": "Block",
+        "itemid": "103",
+        "itemrarity": "5",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/2/25/Wood_Block.png/revision/latest?cb=20220718180502"
+    },
+    {
+        "names": "Wooden Box",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/7/70/Wooden_Box.png/revision/latest?cb=20220722134701"
+    },
+    {
+        "names": "Wooden Chair",
+        "itemtype": "Block",
+        "itemid": "101",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/7/76/Chair.png/revision/latest?cb=20220718180147"
+    },
+    {
+        "names": "Wooden Fence",
+        "itemtype": "Block",
+        "itemid": "105",
+        "itemrarity": "6",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/6/6f/Wooden_Fence.png/revision/latest?cb=20220721123325"
+    },
+    {
+        "names": "Wooden Ladder",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/c/c7/Wooden_Ladder.png/revision/latest?cb=20220722133934"
+    },
+    {
+        "names": "Wooden Platform",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/b/bf/Wooden_Platform.png/revision/latest?cb=20220722134304"
+    },
+    {
+        "names": "Wooden Table",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "No",
+        "itemfarmable": "",
+        "itemdroppable": "",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/a/a5/Table.png/revision/latest?cb=20220718180417"
+    },
+    {
+        "names": "Wooden Varil",
+        "itemtype": "Block",
+        "itemid": "319",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/3b/Wooden_Varil.png/revision/latest?cb=20220722140442"
+    },
+    {
+        "names": "Wooden Windows",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/c/ca/Wooden_Window.png/revision/latest?cb=20220718180546"
+    },
+    {
+        "names": "Workbench",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "104",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/e/ea/Workbench.png/revision/latest?cb=20220722141741"
+    },
+    {
+        "names": "World Globe",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "No",
+        "itemfarmable": "",
+        "itemdroppable": "",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/b/b5/World_Globe.png/revision/latest?cb=20220723110626"
+    },
+    {
+        "names": "Yellow Block",
+        "itemtype": "Block",
+        "itemid": "1",
+        "itemrarity": "No",
+        "itemfarmable": "",
+        "itemdroppable": "",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/1/1b/Yellow_Block.png/revision/latest?cb=20220718180600"
+    },
+    {
+        "names": "Black Wallpaper",
+        "itemtype": "Background",
+        "itemid": "21",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/6/6d/Black_Wallpaper.png/revision/latest?cb=20220801164928"
+    },
+    {
+        "names": "Blue Striped Wallpaper",
+        "itemtype": "Background",
+        "itemid": "13",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/f/fe/Blue_Striped_Wallpaper.png/revision/latest?cb=20220801180538"
+    },
+    {
+        "names": "Blue Stripped Wallpaper",
+        "itemtype": "Background",
+        "itemid": "244",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/32/Blue_Stripped.png/revision/latest?cb=20220722142803"
+    },
+    {
+        "names": "Blue Wallpaper",
+        "itemtype": "Background",
+        "itemid": "13",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/f/f7/Blue_Wallpaper.png/revision/latest?cb=20220801160808"
+    },
+    {
+        "names": "Cave Background",
+        "itemtype": "Background",
+        "itemid": "194",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/5e/Cave_Background.png/revision/latest?cb=20220801182140"
+    },
+    {
+        "names": "Cave Background With Root",
+        "itemtype": "Background",
+        "itemid": "196",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/5d/Cave_Background_With_Root.png/revision/latest?cb=20220801182727"
+    },
+    {
+        "names": "Cave Background With Stones",
+        "itemtype": "Background",
+        "itemid": "195",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/7/76/Cave_Background_With_Stones.png/revision/latest?cb=20220801182441"
+    },
+    {
+        "names": "Checkered Wallpaper",
+        "itemtype": "Background",
+        "itemid": "13",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/e/e9/Checkered_Wallpaper.png/revision/latest?cb=20220801175846"
+    },
+    {
+        "names": "Cyan Wallpaper",
+        "itemtype": "Background",
+        "itemid": "18",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/6/67/Cyan_Wallpaper.png/revision/latest?cb=20220801163947"
+    },
+    {
+        "names": "Fancy Wallpaper",
+        "itemtype": "Background",
+        "itemid": "255",
+        "itemrarity": "10",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/e/e9/Fancy_Wallpaper.png/revision/latest?cb=20220722131355"
+    },
+    {
+        "names": "Green Wallpaper",
+        "itemtype": "Background",
+        "itemid": "14",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/d/d9/Green_Wallpaper.png/revision/latest?cb=20220801162633"
+    },
+    {
+        "names": "Love Wallpaper",
+        "itemtype": "Background",
+        "itemid": "241",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/2/28/Love_Wallpaper.png/revision/latest?cb=20220801183025"
+    },
+    {
+        "names": "Metal Background",
+        "itemtype": "Background",
+        "itemid": "250",
+        "itemrarity": "9",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/33/Metal_Background.png/revision/latest?cb=20220722134611"
+    },
+    {
+        "names": "Metal Wallpaper",
+        "itemtype": "Background",
+        "itemid": "250",
+        "itemrarity": "9",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/5e/Metal_Wallpaper.png/revision/latest?cb=20220801180208"
+    },
+    {
+        "names": "Pink Striped Wallpaper",
+        "itemtype": "Background",
+        "itemid": "13",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/6/6c/Pink_Striped_Wallpaper.png/revision/latest?cb=20220801180915"
+    },
+    {
+        "names": "Pink Stripped Wallpaper",
+        "itemtype": "Background",
+        "itemid": "243",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/1/1d/Pink_Stripped.png/revision/latest?cb=20220722143014"
+    },
+    {
+        "names": "Pink Wallpaper",
+        "itemtype": "Background",
+        "itemid": "17",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/c/c6/Pink_Wallpaper.png/revision/latest?cb=20220801163415"
+    },
+    {
+        "names": "Purple Wallpaper",
+        "itemtype": "Background",
+        "itemid": "18",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/7/70/Purple_Wallpaper.png/revision/latest?cb=20220801163746"
+    },
+    {
+        "names": "Red Wallpaper",
+        "itemtype": "Background",
+        "itemid": "15",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/b/b3/Red_Wallpaper.png/revision/latest?cb=20220801162911"
+    },
+    {
+        "names": "Rock Background",
+        "itemtype": "Background",
+        "itemid": "193",
+        "itemrarity": "2",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/e/eb/Rock_Background.png/revision/latest?cb=20220801181822"
+    },
+    {
+        "names": "Sand Background",
+        "itemtype": "Background",
+        "itemid": "30",
+        "itemrarity": "1",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/b/b9/Sand_Background.png/revision/latest?cb=20220801165520"
+    },
+    {
+        "names": "Space Ship Wallpaper",
+        "itemtype": "Background",
+        "itemid": "363",
+        "itemrarity": "5",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/1/12/Space_Ship_Wallpaper.png/revision/latest?cb=20220801183348"
+    },
+    {
+        "names": "Star Wallpaper",
+        "itemtype": "Background",
+        "itemid": "242",
+        "itemrarity": "8",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/5/51/Star_Wallpaper.png/revision/latest?cb=20220722143242"
+    },
+    {
+        "names": "White Wallpaper",
+        "itemtype": "Background",
+        "itemid": "20",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/6/66/White_Wallpaper.png/revision/latest?cb=20220801164501"
+    },
+    {
+        "names": "Wooden Background",
+        "itemtype": "Background",
+        "itemid": "13",
+        "itemrarity": "4",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/f/fb/Wooden_Background.png/revision/latest?cb=20220801165932"
+    },
+    {
+        "names": "Yellow Wallpaper",
+        "itemtype": "Background",
+        "itemid": "16",
+        "itemrarity": "3",
+        "itemfarmable": "No",
+        "itemdroppable": "Yes",
+        "image": "https://static.wikia.nocookie.net/cubixworlds/images/3/3d/Yellow_Wallpaper.png/revision/latest?cb=20220801163127"
+    }
+]

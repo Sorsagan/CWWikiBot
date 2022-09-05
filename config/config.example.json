@@ -1,0 +1,20 @@
+{
+
+    "Prefix": "",
+  
+    "Users": {
+      "OWNERS": [""]
+    },
+  
+    "Handlers": {
+      "MONGO": "",
+      "GUILD_ID": ""
+    },
+    
+    "Client": {
+      "TOKEN": "",
+      "ID": ""
+    }
+    
+  }
+  
